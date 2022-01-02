@@ -1,0 +1,14 @@
+body {
+    background-color: #1b6ba3;
+    color: #fff;
+    height: 800px;
+}
+.mainT {
+    text-align: center;
+    font-size: 83px;
+    height: 100%;
+    margin-top: 25%;
+    cursor: default;
+}
+
+
